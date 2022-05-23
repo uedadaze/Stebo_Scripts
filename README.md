@@ -1,5 +1,4 @@
 # Stebo_Scripts
-AP制ゲーム「Stella Board」用の何か
 
 Webゲーム[「Stella Board」](http://stella2.428.st/)に関する何かしらを配布しております。
 製作者はStella Board公式とは一切関係がございません。本ページの製作物についてStella Board公式に問い合わせを行うことは絶対におやめください。ご意見ご質問、バグ報告に関しては切り株（Twitter: @BehindForestBoy）までお願いいたします。
