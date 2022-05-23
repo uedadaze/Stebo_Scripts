@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  結果一覧から連れ出し件数の表示をなくします。
 // @author       You
-// @match        http://stella2.428.st/?mode=result
+// @match        http://stella2.428.st/?mode=result*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==
