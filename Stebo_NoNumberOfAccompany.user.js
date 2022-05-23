@@ -12,8 +12,6 @@
 (function() {
     'use strict';
 
-    console.log("MAMA");
-
     var gokei = $('p:contains("合計")');
     var gokei_html = gokei.html();
     gokei_html = gokei_html.replace(/合計： [0-9]*件/g, '合計： ***件');
